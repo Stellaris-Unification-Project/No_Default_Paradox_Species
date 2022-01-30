@@ -6,6 +6,6 @@ tags={
 	"Fixes"
 }
 picture="noparadoxdefaultspeciesthumbnail.png"
-supported_version="3.*.*"
+supported_version="3.2.2"
 path="E:/Teal/Documents/Paradox Interactive/Stellaris/mod/nodefaultparadoxspecies"
 remote_file_id="1142142725"
